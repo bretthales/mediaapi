@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trading_name: MyString
+  domain: MyString
+  people: MyString
+  stage: MyString
+  description: MyString
+  investors: MyString
+  total_funding: MyString
+
+two:
+  trading_name: MyString
+  domain: MyString
+  people: MyString
+  stage: MyString
+  description: MyString
+  investors: MyString
+  total_funding: MyString

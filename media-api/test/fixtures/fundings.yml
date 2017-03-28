@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  investors: MyString
+  amount: MyString
+  rounds_funding_date: 2017-03-27 13:11:45
+  funding_id: MyString
+
+two:
+  investors: MyString
+  amount: MyString
+  rounds_funding_date: 2017-03-27 13:11:45
+  funding_id: MyString
